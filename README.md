@@ -7,7 +7,7 @@ The project culminates in an interactive web application deployed on Hugging Fac
 ##  Live Demo
 You can try the live LSTM forecasting model here:
 
-## Hugging Face Space: [DataSynthis_ML_JobTask](#) <!-- Replace this link with your actual Space URL -->
+## Hugging Face Space:  https://huggingface.co/spaces/Sajidahamed/DataSynthis_ML_JobTask
 
 ---
 
